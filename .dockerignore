@@ -1,0 +1,21 @@
+.git
+.env
+.env.backup
+.env.production
+node_modules
+vendor
+Masters_Project_final
+/*.pptx
+/*.docx
+/*.pdf
+/*.zip
+/*.sql
+/*.xlsx
+/*.jpg
+/*.png
+/Screenshoots
+/Project report for print.pdf
+storage/logs/*
+storage/framework/cache/data/*
+storage/framework/sessions/*
+storage/framework/views/*
